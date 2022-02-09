@@ -20,7 +20,8 @@
 
 ## Материалы
 
-Видеозаписи практикумов [выкладываются в этом плейлисте](https://www.youtube.com/playlist?list=PLVF5PzSHILHRH_HD4SzuaAz05eByyqYMl).
+Видеозаписи практикумов [выкладываются в этом плейлисте](https://youtube.com/playlist?list=PLVF5PzSHILHQVzBxACB3-UQr8BmhoDEIn).
+Видеозаписи практикумов прошлого года [в этом плейлисте](https://www.youtube.com/playlist?list=PLVF5PzSHILHRH_HD4SzuaAz05eByyqYMl).
 
 Задания [выкладываются здесь](https://github.com/mmp-practicum-team/mmp_practicum_spring_2022/tree/main/Tasks).
 
