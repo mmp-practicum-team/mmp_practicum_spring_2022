@@ -31,9 +31,9 @@
 | Дата | Номер | Тема | Материалы | ДЗ |
 | :---: | :---: | --- | --- | --- |
 | 09 февраля  | 1  | <ul><li>Введение в нейросети</li><li>MLP</li><li>Инициализация сетей</li></ul> | [Введение в нейросети. MLP. Инициализация сетей](Seminars/Seminar%2001/Введение%20в%20нейросети.%20MLP.%20Инициализация%20сетей.ipynb) | ¯\\\_(ツ)\_/¯ |
-| 16 февраля  | 2  | <ul><li>Автоматическое дифференцирование</li><li>Задачи</li><li>Backpropagation</li></ul> | ... | [Полносвязная нейронная сеть на numpy](Tasks/task1/lab_01.ipynb) |
-| 02 марта  | 3  | <ul><li>Dropout</li><li>BatchNorm</li><li>Введение в PyTorch</li></ul> |  [PyTorch](Seminars/Seminar%2003)  | ...|
-| 09 марта  | 4  | <ul><li>Свёртки</li><li>Свёрточные сети в Pytorch</li><li>Сегментация</li></ul> |  [Свёртки. Свёрточные сети в Pytorch. Сегментация](Seminars/Seminar%2004)  | ...|
+| 16 февраля  | 2  | <ul><li>Автоматическое дифференцирование</li><li>Задачи</li><li>Backpropagation</li></ul> | [Решение задач](Seminars/Seminar%2002/tasks.pdf) | [Полносвязная нейронная сеть на numpy](Tasks/task1/lab_01.ipynb) |
+| 02 марта  | 3  | <ul><li>Dropout</li><li>BatchNorm</li><li>Введение в PyTorch</li></ul> |  [PyTorch](Seminars/Seminar%2003)  | ¯\\\_(ツ)\_/¯ |
+| 09 марта  | 4  | <ul><li>Свёртки</li><li>Свёрточные сети в Pytorch</li><li>Сегментация</li></ul> |  [Свёртки. Свёрточные сети в Pytorch. Сегментация](Seminars/Seminar%2004)  | ¯\\\_(ツ)\_/¯ |
 | 16 марта  | 5  | <ul><li>Свёрточные сети в Pytorch</li><li>Сегментация</li></ul> |  [FCN](Seminars/Seminar%2004)  | [Сегментация изображений](Tasks/task2/lab_02.ipynb) |
 
 
