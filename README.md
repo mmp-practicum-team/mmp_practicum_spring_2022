@@ -35,6 +35,7 @@
 | 02 марта  | 3  | <ul><li>Dropout</li><li>BatchNorm</li><li>Введение в PyTorch</li></ul> |  [PyTorch](Seminars/Seminar%2003)  | ¯\\\_(ツ)\_/¯ |
 | 09 марта  | 4  | <ul><li>Свёртки</li><li>Свёрточные сети в Pytorch</li><li>Сегментация</li></ul> |  [Свёртки. Свёрточные сети в Pytorch. Сегментация](Seminars/Seminar%2004)  | ¯\\\_(ツ)\_/¯ |
 | 16 марта  | 5  | <ul><li>Свёрточные сети в Pytorch</li><li>Сегментация</li></ul> |  [FCN](Seminars/Seminar%2005)  | [Сегментация изображений](Tasks/task2/lab_02.ipynb) |
+| 23 марта  | 6  | <ul><li>RNN</li><li>Языковые модели</li></ul> |  [RNN. Language models.](Seminars/Seminar%2006)</li></ul>  | ¯\\\_(ツ)\_/¯ |
 
 
 ## Формат сдачи курса
