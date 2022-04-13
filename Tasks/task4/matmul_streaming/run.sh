@@ -12,7 +12,7 @@ python3 generate_task.py -n ${N} -m ${M} -k ${K}
 
 # Copy all data and code to namenode (see also `docker cp``)
 # Run Hadoop Streaming on namenode (see also `docker exec`)
-# Copy results from namenode  (see also `docker cp``)
+# Copy results from namenode (see also `docker cp``)
 # YOUR CODE HERE
 
 # Check solution
