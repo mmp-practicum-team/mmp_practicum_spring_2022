@@ -1,3 +1,4 @@
+import os
 import argparse
 
 import numpy as np
@@ -8,6 +9,8 @@ def main():
     parser.add_argument('-m', type=int, default=201, required=False)
     parser.add_argument('-k', type=int, default=203, required=False)
     args = parser.parse_args()
+
+    os.makedirs('./data/input', exist_ok=True)
 
     A = np.random.normal(size=(args.n, args.m))
     B = np.random.normal(size=(args.m, args.k))
